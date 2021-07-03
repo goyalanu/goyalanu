@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working as a Software Developer
+
 <!--
 **goyalanu/goyalanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
