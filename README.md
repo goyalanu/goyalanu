@@ -1,7 +1,7 @@
 ### Hi there, I'm [Anu Goel!](https://goyalanu.github.io) 👋
 
 - 🔭 I’m currently working as a Software Developer
-- ⚡ LeetCode - [Anu Goel](https://leetcode.com/Anu-Goel/)
+- ⚡ My LeetCode Profile - [Anu Goel](https://leetcode.com/Anu-Goel/)
 
 <!--
 **goyalanu/goyalanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
